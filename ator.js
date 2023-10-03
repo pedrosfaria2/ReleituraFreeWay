@@ -65,8 +65,8 @@ function limites(){ //função que limita o ator dentro da tela.
   if(xAtor < 0){
     xAtor = 0;
   }
-  if(xAtor > 570){
-    xAtor = 570;
+  if(xAtor > 470){
+    xAtor = 470;
   }
   if(yAtor < 0){
     yAtor = 0;
