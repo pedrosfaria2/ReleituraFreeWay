@@ -1,9 +1,9 @@
-function setup() {
+function setup() { //configuração do jogo
   createCanvas(500, 400);
   somDaTrilha.loop();
 }
 
-function draw() {
+function draw() { //execução do jogo
   background(imagemDaEstrada);
   mostraAtor();
   mostraCarro();

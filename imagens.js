@@ -10,7 +10,7 @@ let somDaTrilha;
 let somDaColisao;
 let somDoPonto;
 
-function preload(){
+function preload(){ //função que carrega as imagens e os sons do jogo.
   imagemDaEstrada = loadImage("imagens/estrada.png");
   imagemDoAtor = loadImage("imagens/ator-1.png");
   imagemCarro = loadImage("imagens/carro-1.png");
