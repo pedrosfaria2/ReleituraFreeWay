@@ -23,5 +23,8 @@ Caso queira jogar e ver como ficou minha versão, segue link abaixo. O jogo est�
 
 -> [Releitura do FreeWay](https://editor.p5js.org/pedroserrano2/full/iFRQ4nX9y)
 
+## 👨‍🦲 Autor:
+[Pedro Serrano Faria](https://github.com/pedrosfaria2)
+
 
 
